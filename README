@@ -2,6 +2,6 @@
 Python-based encoder and decoder for private messages
 Enter word you want to encode/decode when prompt asks for it.
 Enter a encode key when prompt asks for it.
-To find the decode key, you this program :
+To find the decode key, you can use this program :
 
 and enter the result when prompt asks for it
